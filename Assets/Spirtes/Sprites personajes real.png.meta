@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 138e78ae793d5bb4492c60e9f8764e90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5940716381700961138
+    second: Sprites personajes real_0
+  - first:
+      213: -1818075366100895660
+    second: Sprites personajes real_1
+  - first:
+      213: 701384528089770855
+    second: Sprites personajes real_2
+  - first:
+      213: 4851073409850104386
+    second: Sprites personajes real_3
+  - first:
+      213: 348099390638385528
+    second: Sprites personajes real_4
+  - first:
+      213: 9169989195897521092
+    second: Sprites personajes real_5
+  - first:
+      213: 5717450053382958284
+    second: Sprites personajes real_6
+  - first:
+      213: 9169170640137651340
+    second: Sprites personajes real_7
+  - first:
+      213: -1138334205192135988
+    second: Sprites personajes real_8
+  - first:
+      213: -5994141902780399234
+    second: Sprites personajes real_9
+  - first:
+      213: -727178407184112186
+    second: Sprites personajes real_10
+  - first:
+      213: -4164365799658560251
+    second: Sprites personajes real_11
+  - first:
+      213: 5478618488455225330
+    second: Sprites personajes real_12
+  - first:
+      213: 3216924111903820094
+    second: Sprites personajes real_13
+  - first:
+      213: 5087976086591389265
+    second: Sprites personajes real_14
+  - first:
+      213: 8503764885164014229
+    second: Sprites personajes real_15
+  - first:
+      213: 4683338888279244957
+    second: Sprites personajes real_16
+  - first:
+      213: -1007286048004963284
+    second: Sprites personajes real_17
+  - first:
+      213: -5974072053197675736
+    second: Sprites personajes real_18
+  - first:
+      213: 2422478672397790483
+    second: Sprites personajes real_19
+  - first:
+      213: 158597276039370895
+    second: Sprites personajes real_20
+  - first:
+      213: -4426438699114539151
+    second: Sprites personajes real_21
+  - first:
+      213: -3961065282597411975
+    second: Sprites personajes real_22
+  - first:
+      213: -1351906781118388478
+    second: Sprites personajes real_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites personajes real_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 753
+        width: 232
+        height: 220
+      alignment: 9
+      pivot: {x: 0.50627035, y: 0.6309434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001abba9f326d3143b6a856412107e0d
+      internalID: -5940716381700961138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 800
+        width: 197
+        height: 175
+      alignment: 9
+      pivot: {x: 0.68280554, y: 0.50804514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd25a2377c17b4f408fea51a2416c6e5
+      internalID: -1818075366100895660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 801
+        width: 204
+        height: 175
+      alignment: 9
+      pivot: {x: 0.3297559, y: 0.49999964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb9d4467e1f4474d9ed0e0b73a8ea57
+      internalID: 701384528089770855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_3
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 799
+        width: 164
+        height: 239
+      alignment: 9
+      pivot: {x: 0.5114467, y: 0.41556105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb51f5a36a4c4184fb60ff66c8fe9dd2
+      internalID: 4851073409850104386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_4
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 863
+        width: 89
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d98b5454006579419f58223e18dfddf
+      internalID: 348099390638385528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_5
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 863
+        width: 150
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f1b3d5a36d3e94bb175166db11855f
+      internalID: 9169989195897521092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 526
+        width: 162
+        height: 186
+      alignment: 9
+      pivot: {x: 0.34900957, y: 0.43811363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76349669bc6a3e4497497f42b1d83e0
+      internalID: 5717450053382958284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 575
+        width: 27
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c1337f39fe4e848bfbeb58952dd32d
+      internalID: 9169170640137651340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_8
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 543
+        width: 107
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8bab2793704ce469040af294e5e3ec
+      internalID: -1138334205192135988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_9
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 543
+        width: 107
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdb507067843024280c537dde71b05d
+      internalID: -5994141902780399234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_10
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 577
+        width: 27
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246e57b0f60e60746a573dfb50d7c670
+      internalID: -727178407184112186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_11
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 544
+        width: 101
+        height: 191
+      alignment: 9
+      pivot: {x: 0.48575404, y: 0.45480043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629cc484d439fae42ada126b5317370b
+      internalID: -4164365799658560251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_12
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 546
+        width: 234
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a316210001db54b855a55f910de94c
+      internalID: 5478618488455225330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_13
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 546
+        width: 215
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e48b8c38ac423b4cba0383a7fbd3376
+      internalID: 3216924111903820094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 282
+        width: 141
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ed5ca43dbab5d4f9e0135b6fd10808
+      internalID: 5087976086591389265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_15
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 288
+        width: 91
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc07403213e7e9c4f93a7696748a05bc
+      internalID: 8503764885164014229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 286
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2476229b2470bf478f1e92c8a1dc49a
+      internalID: 4683338888279244957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 283
+        width: 90
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7464ff176708ab14d8c9c5b27b721666
+      internalID: -1007286048004963284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_18
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 288
+        width: 91
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3a13ed590abfb46b9ed3eb0df9fa85
+      internalID: -5974072053197675736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_19
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 286
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2a6fa2ab1c5414fbfeef6ac9594fa1
+      internalID: 2422478672397790483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 54
+        width: 141
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b23abb6411b944984bf2292f5dbbcd
+      internalID: 158597276039370895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 54
+        width: 151
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b92a76195d5e374691c04713ca4de0a
+      internalID: -4426438699114539151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 55
+        width: 143
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0e82114a985f545a0fd35597f9a08b
+      internalID: -3961065282597411975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites personajes real_23
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 59
+        width: 112
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452ca9e76fd1ae444b690123973673f7
+      internalID: -1351906781118388478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

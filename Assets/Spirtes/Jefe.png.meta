@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 85748873b5afe4446a9c7c0b1791a810
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4489391729166414766
+    second: Jefe_0
+  - first:
+      213: 6237216150269260821
+    second: Jefe_1
+  - first:
+      213: 1575432828067519187
+    second: Jefe_2
+  - first:
+      213: 8201387199944499522
+    second: Jefe_3
+  - first:
+      213: -7173112166147760322
+    second: Jefe_4
+  - first:
+      213: -3772453546072926594
+    second: Jefe_5
+  - first:
+      213: 4943477069909738428
+    second: Jefe_6
+  - first:
+      213: -2103716070522583553
+    second: Jefe_7
+  - first:
+      213: -5710970973204240889
+    second: Jefe_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jefe_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 631
+        width: 245
+        height: 303
+      alignment: 9
+      pivot: {x: 0.59772915, y: 0.5046479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70128627b7a43d048b0e944ef5e4fe8b
+      internalID: -4489391729166414766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 626
+        width: 157
+        height: 325
+      alignment: 9
+      pivot: {x: 0.44617322, y: 0.49133226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b2a49edd159a54ca8adbbe1701a743
+      internalID: 6237216150269260821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_2
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 625
+        width: 234
+        height: 326
+      alignment: 9
+      pivot: {x: 0.33748633, y: 0.4611161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb8f60e16e6f2d4083bebdbb809ae8e
+      internalID: 1575432828067519187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_3
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 635
+        width: 164
+        height: 393
+      alignment: 9
+      pivot: {x: 0.6459968, y: 0.40295658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5378099fff8fbc4cb488a8952a4de41
+      internalID: 8201387199944499522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_4
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 540
+        width: 263
+        height: 500
+      alignment: 9
+      pivot: {x: 0.29505417, y: 0.49716344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d460b5965332fdd48ba7e2682281733e
+      internalID: -7173112166147760322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 101
+        width: 334
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36240e465dfcaa940b8358d4666fd237
+      internalID: -3772453546072926594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_6
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 131
+        width: 357
+        height: 303
+      alignment: 9
+      pivot: {x: 0.5749596, y: 0.49999958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec27e2085fbcc204ca96617611bf977e
+      internalID: 4943477069909738428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 30
+        width: 515
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2234e8169be4f534eaf55f7f154c4e6f
+      internalID: -2103716070522583553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_8
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 127
+        width: 138
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289155c23809d30459ec02901b2f3e23
+      internalID: -5710970973204240889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
